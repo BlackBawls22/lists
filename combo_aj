@@ -1128,7 +1128,7 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS Pennsylvania(WPSU)" tvg-logo="https://static.epg.best/us/PBSWPSU.us.png" group-title="USA",PBS Pennsylvania(WPSU)
 https://ssc2.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS New Jersey(NJTV)" tvg-logo="https://d1b7flq4e9knh1.cloudfront.net/wp-content/plugins/wnet-station-wrappers/libs/images/NJTV/logo.png group-title=" group-title="USA",PBS New Jersey(NJTV)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS New Jersey(NJTV)" tvg-logo="https://d1b7flq4e9knh1.cloudfront.net/wp-content/plugins/wnet-station-wrappers/libs/images/NJTV/logo.png group-title="USA",PBS New Jersey(NJTV)
 https://cdn3.wowza.com/1/Yk9VdzI2QnptdXZ2/YjdacytV/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS Thirteen(WNET)" tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/themes/wnet/libs/images/WNET-Logo-new.png" group-title="USA",PBS Thirteen(WNET)
