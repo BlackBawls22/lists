@@ -402,12 +402,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cinemaworld.png" group-title="Movies",VIP MLZ: CINEMA WORLD HD
 http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28687
 
-#EXTINF:-1 group-title="Movies",VIP MLZ: FOX TV HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28672
-
-#EXTINF:-1 group-title="Movies",VIP MLZ: FX CINEMA HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28671
-
 #EXTINF:-1 tvg-id="FXM.Asia" tvg-name="FOX Movies" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Movies
 http://103.47.132.164/PLTV/88888888/224/3221227119/index.m3u8
 
@@ -424,12 +418,6 @@ http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28676
 
 #EXTINF:-1 tvg-id="FFM.Asia" tvg-name="Fox Family Movies" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies",Fox Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="Movies",VIP MLZ: Fox Movies Family
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28669
-
-#EXTINF:-1 group-title="Movies",VIP MLZ: FOX FAMILY MOVIES HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28678
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
@@ -452,9 +440,6 @@ http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28778?play_token=8XI9jB1I3H&toke
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-name="304" tvg-id="FAM.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428182_ico.png" group-title="Movies",FOX ACTION MOVIE b
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
-
-#EXTINF:-1 group-title="Movies",VIP MLZ: Fox Movies Action HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28670
 
 #EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX a
 http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28777?play_token=V1D4GAfWM9&token=QhVcUhcJRggXAFACBVQBAVcOU1ZYBQFQBgANWANWUlgIAgBVUVBdV1NGGURBEkJRAFtpWgVEXlFdUwJWSkAXElxFa1oAQ14QDV0NVgdQEhhDQl9eBEReUlNUAFdeV1RYCRsWQw0FRggXVQ1RAUQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRANUAARDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVwpQBhYc
@@ -482,14 +467,6 @@ http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28677
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-name="HBO" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",HBO a
-http://136.243.177.164/HBO/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-name="304" tvg-id="Hbo.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="Movies",HBO b
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
-
 #EXTINF: -1 tvg-logo="https://www.tvchinese.net/uploads/tv/hbohd.jpg" group-title="Movies", HBO HD
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 
@@ -498,9 +475,6 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.tvchinese.net/uploads/tv/hbohd.jpg" group-title="Movies", HBO HD (C)
 http://my.odtv.uk/a5babaaa3a/334babb443/72
-
-#EXTINF:-1 group-title="Movies",VIP MLZ: HBO HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/34793
 
 #EXTINF:-1 group-title="Movies",VIP|USA| HBO HD USA
 http://iptvfhd.com:8000/50384518504192/79820147173458/79755
@@ -525,9 +499,6 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 #EXTINF:-1 group-title="Movies",VIP|USA| HBO FAMILY HD
 http://iptvfhd.com:8000/50384518504192/79820147173458/79756
 
-#EXTINF:-1 group-title="Movies",VIP MLZ: HBO FAMILY HD (Eng)
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/34809
-
 #EXTINF:-1 tvg-id="Hbh.Asia" tvg-name="HBO Hits" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="Movies",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
@@ -535,9 +506,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-name="304" tvg-id="Hbh.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="Movies",HBO HITS a
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
-
-#EXTINF:-1 group-title="Movies",VIP MLZ: HBO HITS HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/34804
 
 #EXTINF:-1 tvg-id="Hbs.Asia" tvg-name="HBO Signature" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Movies",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
@@ -553,9 +521,6 @@ http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/34800
 #EXTINF:-1 tvg-id="Red.Asia" tvg-name="Red by HBO" tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png" group-title="Movies",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
-#EXTINF:-1 group-title="Movies",VIP MLZ: HBO RED
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/34818
-
 #EXTINF:-1,VIP MLZ: RED HBO HD
 http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28650
 
@@ -567,10 +532,6 @@ http://103.47.132.164/PLTV/88888888/224/3221227331/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 group-title="Movies",VIP MLZ: HITS HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28665
-
-
 #EXTINF:-1 tvg-id="RON.ID" tvg-name="Romedy Now" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="Movies",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 
@@ -580,17 +541,11 @@ https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X
 #EXTINF:-1 tvg-id="SIN.ID" tvg-name="Sinema Indonesia" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest?cb=20181017152803" group-title="Movies",Sinema Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221227233/index.m3u8
 
-#EXTINF:-1 group-title="Movies",VIP MLZ: DUNIA SINEMA
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28681
-
 #EXTINF:-1 tvg-id="PAR.US" tvg-name="Paramount Network" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="Movies",Paramount Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
 #EXTINF:-1,VIP MLZ: PARAMAUNT CHANNEL
 http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28652
-
-#EXTINF:-1 group-title="Movies",OSN Paramount HD
-http://iptvfhd.com:8000/50384518504192/79820147173458/86613
 
 #EXTINF:-1 tvg-id="SMA.UK" tvg-name="Sony Movies Action" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="Movies",Sony Movies Action
 http://51.52.156.22:8888/http/009
@@ -609,9 +564,6 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",Warner TV
 http://203.154.243.89:11205/
-
-#EXTINF:-1 group-title="Movies",VIP MLZ: WARNER TV HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/33255
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
@@ -633,12 +585,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="BBL.UK" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png" group-title="Movies",TVN MOVIES
 http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
-
-#EXTINF:-1 group-title="Movies",VIP MLZ: TVN Movies HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/9595
-
-#EXTINF:-1 group-title="Movies",VIP MLZ: MAX HD (Eng)
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/34814
 
 #EXTINF:-1 group-title="Movies",OCS MAX HD
 http://iptvfhd.com:8000/50384518504192/79820147173458/2693
@@ -730,12 +676,6 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428157_ico.png" group-title="Entertainment",TLC a
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: TLC
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28638
-
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: TRAVEL CHANNEL HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28637
-
 #EXTINF:-1 tvg-id="Ani.Asia" tvg-name="Animax" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="Entertainment" group-title="Entertainment",Animax
 http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
 
@@ -763,9 +703,6 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3
 
 #EXTINF:-1 tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="Entertainment" group-title="Entertainment",Animal Planet a
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: ANIMAL PLANET
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28707
 
 #EXTINF:-1 tvg-id="BBE.UK" tvg-name="BBC Earth" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Entertainment",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
@@ -801,12 +738,6 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment",DISCOVERY HD
 http://iptvfhd.com:8000/50384518504192/79820147173458/63
 
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: DISCOVERY CHANNEL
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28686
-
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: DISCOVERY SCI HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/33259
-
 #EXTINF:-1 tvg-id="DIS.Asia" tvg-name="Discovery Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Entertainment",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
@@ -816,17 +747,8 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="DIS.MY" tvg-name="Disney Channel" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="Entertainment",Disney Channel
 http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: DISNEY CH
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28685
-
 #EXTINF:-1 group-title="Entertainment",DISNEY CHANNEL
 http://iptvfhd.com:8000/50384518504192/79820147173458/376
-
-#EXTINF:-1 tvg-id="DSJ.ID" tvg-name="Disney Jr Indonesia" tvg-logo="https://static.epg.best/gb/DisneyJunior.uk.png" group-title="Entertainment",Disney Jr Indonesia
-http://103.47.132.164/PLTV/88888888/224/3221227539/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: DISNEY JR
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28684
 
 #EXTINF:-1 group-title="Entertainment",OSN Disney Junior HD
 http://iptvfhd.com:8000/50384518504192/79820147173458/86637
@@ -836,9 +758,6 @@ http://iptvfhd.com:8000/50384518504192/79820147173458/86638
 
 #EXTINF:-1 group-title="Entertainment",OSN Disney XD
 http://iptvfhd.com:8000/50384518504192/79820147173458/86636
-
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: DISNEY XD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28683
 
 #EXTINF:-1 group-title="Entertainment",DISNEY + FULL HD
 http://iptvfhd.com:8000/50384518504192/79820147173458/23709
@@ -854,9 +773,6 @@ http://iptvfhd.com:8000/50384518504192/79820147173458/86629
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: History HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/9594
-
 #EXTINF:-1 tvg-id="HGT.US" tvg-name="HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="Entertainment",HGTV
 http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
 
@@ -864,9 +780,6 @@ http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: HGTV
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28667
 
 #EXTINF:-1 tvg-id="POP.UK" tvg-name="Pop UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="Entertainment",Pop UK
 https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
@@ -883,9 +796,6 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment",NAT GEO HD
 http://iptvfhd.com:8000/50384518504192/79820147173458/139
 
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: NAT GEO ASIA HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28659
-
 #EXTINF:-1 tvg-id="NGP.US" tvg-name="Nat Geo People" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="Entertainment",Nat Geo People
 http://103.47.132.164/PLTV/88888888/224/3221227127/index.m3u8
 
@@ -893,9 +803,6 @@ http://103.47.132.164/PLTV/88888888/224/3221227127/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
-
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: NAT GEO PEOPLE HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28658
 
 #EXTINF:-1 tvg-id="NGW.US" tvg-name="Nat Geo Wild" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Entertainment",Nat Geo Wild
 http://103.47.132.164/PLTV/88888888/224/3221227157/index.m3u8
@@ -905,23 +812,14 @@ http://103.47.132.164/PLTV/88888888/224/3221227157/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: NAT GEO WILD HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28657
-
 #EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="Entertainment",Nick 1
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-id="NIC.US" tvg-name="Nick" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="Entertainment",Nick
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: NICK KD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28655
-
 #EXTINF:-1 tvg-id="NJR.US" tvg-name="Nick Jr" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Entertainment",Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: NICK JR KD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28656
 
 #EXTINF:-1 group-title="Entertainment",OSN Nick Jr HD
 http://iptvfhd.com:8000/50384518504192/79820147173458/86615
