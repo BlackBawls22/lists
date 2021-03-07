@@ -475,12 +475,6 @@ http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
 #EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FX a
 http://62.210.127.217:8080/0B8gcaCVWSKWF7T1/Zmuqs1uhau6bA6rV/28671?token=QhVcUhcJRggXVFZRBQIIAFkHUAoCVQJUAFxRUARXBFkLU1dXVwVVBwRGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QBlIEVQNWEhhDQl9eBEReUlNUB1RXW1RUDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
-#EXTINF:0,MY: FOX Action Movies
-http://iptvtree.net:8080/test-e78555/cf00/157575
-
-#EXTINF:-1 tvg-id="FAM.Asia" tvg-name="Fox Action Movies" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="Movies",Fox Action Movies
-http://103.47.132.164/PLTV/88888888/224/3221227121/index.m3u8
-
 #EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies",Fox Action Movies a
 http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28778?play_token=8XI9jB1I3H&token=QhVcUhcJRggXVQFSU1QHDFgBBgRYVAFSXAAAAwdRUAVaAFEAV1JTUQBGGURBEkJRAFtpWgVEXlFdUwJZSkAXElxFa1oAQ14QDV0NVgdQEhhDQl9eBEReUlNUAFdeV1ZZCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
@@ -489,7 +483,7 @@ http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28778?play_token=8XI9jB1I3H&toke
 #EXTINF:-1 tvg-name="304" tvg-id="FAM.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428182_ico.png" group-title="Movies",FOX ACTION MOVIE b
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
-#EXTINF:0 group-title="Movies",MY: FOX Action Movies
+#EXTINF:0 tvg-id="FAM.Asia" tvg-name="Fox Action Movies" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="Movies",MY: FOX Action Movies
 http://iptvtree.net:8080/test-e78555/cf00/157575
 
 #EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX a
@@ -501,10 +495,7 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1200px-FOX_HD.svg.png" group-title="Movies", FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/chunks.m3u8
 
-#EXTINF:0 group-title="Movies",MY: FOX HD
-http://iptvtree.net:8080/test-e78555/cf00/158356
-
-#EXTINF:0,MY: FOX HD
+#EXTINF:0 group-title="Movies",MY: FOX HD a
 http://iptvtree.net:8080/test-e78555/cf00/158356
 
 #EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Life
@@ -518,10 +509,10 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-name="304" tvg-id="FXL.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428180_ico.png" group-title="Movies",FOX LIFE b
 http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd
 
-#EXTINF:-1 group-title="Movies",MY: FOX LIFE HD
+#EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",MY: FOX LIFE HD
 http://iptvtree.net:8080/test-e78555/cf00/171961
 
-#EXTINF:0,MY: FOX Life HD
+#EXTINF:0 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png",MY: FOX Life HD
 http://iptvtree.net:8080/test-e78555/cf00/171961
 
 #EXTINF:0,MY: FX Cinema HD
