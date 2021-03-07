@@ -21,7 +21,7 @@ https://androidrepublica.website/List/Dailymotion/tv9.m3u8|https://www.dailymoti
 #EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" tvg-chno="7" channel-id="7" group-title="MYSG",Drama Sangat
 https://androidrepublica.website/List/Dailymotion/drama.m3u8|https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
 
-#EXTINF:0,MY: Drama Sangat
+#EXTINF:0 group-title="MYSG",MY: Drama Sangat
 http://iptvtree.net:8080/test-e78555/cf00/171954
 
 #EXTINF:-1 tvg-id="AlHijrah.my" tvg-name="AL Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" tvg-chno="8" channel-id="8" group-title="MYSG",AL Hijrah
@@ -31,6 +31,9 @@ https://fvtv.mywire.org/dash/tvalhijrah.mpd
 
 #EXTINF:-1 tvg-id="Okey.my" tvg-name="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" tvg-chno="9" channel-id="9" group-title="MYSG",OKEY
 https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:0 group-title="MYSG",MY: TVS
+http://iptvtree.net:8080/test-e78555/cf00/247442
 
 #EXTINF:-1 tvg-id="Awani.my" tvg-name="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" tvg-chno="59" channel-id="59" group-title="MYSG",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -67,6 +70,9 @@ http://fr-c.movply.stream/hls/Colors.m3u8
 
 #EXTINF:-1 tvg-id="Naura.my" tvg-name="Astro Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" tvg-chno="19" channel-id="19" tvg-group="MY/SG" group-title="MYSG",Astro Naura
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+
+#EXTINF:0 group-title="MYSG",MY: Pesona HD
+http://iptvtree.net:8080/test-e78555/cf00/171972
 
 #EXTINF:-1 tvg-id="GoShop.my" tvg-name="Astro Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png" tvg-chno="20" channel-id="20" tvg-group="MY/SG" group-title="MYSG",Astro Go
 http://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
@@ -132,7 +138,7 @@ https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 #EXTINF:-1 tvg-id="CGTNEnglish.cn" tvg-name="CGTN" tvg-logo="https://static.epg.best/cn/CGTNEnglish.cn.png" tvg-chno="33" channel-id="33" tvg-group="MYSG" group-title="MYSG",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:0,MY: CGTN
+#EXTINF:0 group-title="MYSG",MY: CGTN
 http://iptvtree.net:8080/test-e78555/cf00/158350
 
 #EXTINF:-1 tvg-id="WRDW.us" tvg-name="DW" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" tvg-chno="34" channel-id="34" tvg-group="MYSG" group-title="MYSG",DW
@@ -174,8 +180,19 @@ https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
 #EXTINF:-1 tvg-id="Hel.MY" tvg-name="Hello" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="MYSG",Hello
 https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
 
-#EXTINF:-1 tvg-id="HIT.MY" tvg-name="Hits" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="MYSG",Hits
+#EXTINF:-1 tvg-id="HIT.MY" tvg-name="Hits" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Movies",Hits
 http://103.47.132.164/PLTV/88888888/224/3221227329/index.m3u8
+
+#EXTINF:0 group-title="MYSG",MY: HITS HD
+http://iptvtree.net:8080/test-e78555/cf00/157545
+
+#EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Movies",Hits a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#EXTINF:0 group-title="MYSG",MY: ASTRO HITS HD
+http://iptvtree.net:8080/test-e78555/cf00/264468
 
 #EXTINF:-1 tvg-id="Kix.Asia" tvg-name="KIX" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="MYSG",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
@@ -188,8 +205,11 @@ http://210.210.155.35/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="MYSG",KIX b
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:0,MY: ASTRO KIX HD
+#EXTINF:0 group-title="MYSG",MY: ASTRO KIX HD
 http://iptvtree.net:8080/test-e78555/cf00/264469
+
+#EXTINF:0 group-title="MYSG",MY: KIX HD
+http://iptvtree.net:8080/test-e78555/cf00/157548
 
 #EXTINF:-1 tvg-id="AlHijrah.my" tvg-name="AL Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="MYSG",AL Hijrah
 https://fvtv.mywire.org/playlist/nujj7qrkcz-u0wjkpejqa.m3u8|Referer=https://www.youtube.com
@@ -219,14 +239,24 @@ http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/lakumall.png" group-title="MYSG",LAKU MALL
 http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
 
-#EXTINF:-1 group-title="MYSG",VIP MLZ: ASTRO TUTOR PT3
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28698
+#EXTINF:0 group-title="MYSG",MY: LAKU Mall
+http://iptvtree.net:8080/test-e78555/cf00/264806
 
-#EXTINF:-1 group-title="MYSG",VIP MLZ: ASTRO TUTOR SPM
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/33243
+#EXTINF:0 group-title="MYSG",MY: ASTRO Tutor TV PT3
+http://iptvtree.net:8080/test-e78555/cf00/247431
 
-#EXTINF:0,MY: AXN HD
-http://iptvtree.net:8080/test-e78555/cf00/157542
+#EXTINF:0 group-title="MYSG",MY: ASTRO Tutor TV SPM
+http://iptvtree.net:8080/test-e78555/cf00/247432
+
+#EXTINF:0 group-title="MYSG",MY: ASTRO Tutor TV UPSR
+http://iptvtree.net:8080/test-e78555/cf00/247433
+
+#EXTINF:0 group-title="MYSG",MY: ASTRO TVIQ
+http://iptvtree.net:8080/test-e78555/cf00/247434
+
+
+
+
 
 
 
@@ -361,14 +391,7 @@ https://fvtv.mywire.org/playlist/puexvpgv7d-vqaempm1hc.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTM Sports HD" tvg-logo="https://freeview.github.io/logos/rtmhdsports.png" group-title="Sports",RTM Sports HD
 https://fvtv.mywire.org/playlist/txh0002cf2-9xwvtrxhk7.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:0,MY: ASTRO Tutor TV PT3
-http://iptvtree.net:8080/test-e78555/cf00/247431
-#EXTINF:0,MY: ASTRO Tutor TV SPM
-http://iptvtree.net:8080/test-e78555/cf00/247432
-#EXTINF:0,MY: ASTRO Tutor TV UPSR
-http://iptvtree.net:8080/test-e78555/cf00/247433
-#EXTINF:0,MY: ASTRO TVIQ
-http://iptvtree.net:8080/test-e78555/cf00/247434
+
 
 #EXTINF:-1 tvg-id="Fli.IN" tvg-name="&Flix" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
@@ -423,8 +446,6 @@ http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28687
 
 #EXTINF:0,MY: Cinema World HD
 http://iptvtree.net:8080/test-e78555/cf00/171956
-
-
 
 #EXTINF:0,MY: FOX Movies HD
 http://iptvtree.net:8080/test-e78555/cf00/171962
@@ -598,7 +619,8 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:0,MY: ASTRO HITS HD
 http://iptvtree.net:8080/test-e78555/cf00/264468
 
-
+#EXTINF:0,MY: HITS Movies HD
+http://iptvtree.net:8080/test-e78555/cf00/157477
 
 #EXTINF:-1 tvg-id="RON.ID" tvg-name="Romedy Now" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="Movies",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
@@ -614,6 +636,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3
 
 #EXTINF:-1,VIP MLZ: PARAMAUNT CHANNEL
 http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28652
+
+#EXTINF:0,MY: Paramount Channel
+http://iptvtree.net:8080/test-e78555/cf00/171967
 
 #EXTINF:-1 tvg-id="SMA.UK" tvg-name="Sony Movies Action" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="Movies",Sony Movies Action
 http://51.52.156.22:8888/http/009
@@ -636,6 +661,9 @@ http://203.154.243.89:11205/
 #EXTINF:0,MY: ASTRO WARNER TV
 http://iptvtree.net:8080/test-e78555/cf00/264487
 
+#EXTINF:0,MY: WARNER TV
+http://iptvtree.net:8080/test-e78555/cf00/157550
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-id="WAR.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/warner.png" group-title="Movies",WARNER
@@ -655,6 +683,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd
 #EXTINF:0,MY: Dreamworks HD
 http://iptvtree.net:8080/test-e78555/cf00/171959
 
+#EXTINF:0,MY: tvN HD
+http://iptvtree.net:8080/test-e78555/cf00/157476
+
+#EXTINF:0,MY: tvN Movies
+http://iptvtree.net:8080/test-e78555/cf00/157520
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="BBL.UK" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png" group-title="Movies",TVN MOVIES
@@ -671,7 +705,8 @@ http://iptvfhd.com:8000/50384518504192/79820147173458/2693
 #EXTINF:-1 group-title="Movies",OCS MAX FULL HD
 http://iptvfhd.com:8000/50384518504192/79820147173458/23763
 
-
+#EXTINF:0,MY: Unifi TV Movie Lounge
+http://iptvtree.net:8080/test-e78555/cf00/264795
 
 #EXTINF:-1 group-title="Movies",OSN Cinema 2
 http://iptvfhd.com:8000/50384518504192/79820147173458/86645
@@ -743,10 +778,13 @@ http://iptvfhd.com:8000/50384518504192/79820147173458/75289
 
 
 
-#EXTINF:0,MY: Blue Ant Entertainment
+#EXTINF:0 group-title="Entertainment",MY: AXN HD
+http://iptvtree.net:8080/test-e78555/cf00/157542
+
+#EXTINF:0 group-title="Entertainment",MY: Blue Ant Entertainment
 http://iptvtree.net:8080/test-e78555/cf00/171983
 
-#EXTINF:0,MY: Blue Ant Extreme
+#EXTINF:0 group-title="Entertainment",MY: Blue Ant Extreme
 http://iptvtree.net:8080/test-e78555/cf00/171960
 
 #EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="Entertainment",TLC
@@ -759,16 +797,20 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428157_ico.png" group-title="Entertainment",TLC a
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
-#EXTINF:0,MY: ASTRO TLC HD
+#EXTINF:0 group-title="Entertainment",MY: ASTRO TLC HD
 http://iptvtree.net:8080/test-e78555/cf00/264483
+
+#EXTINF:0 group-title="Entertainment",MY: TLC HD
+http://iptvtree.net:8080/test-e78555/cf00/157483
+
 
 #EXTINF:-1 tvg-id="Ani.Asia" tvg-name="Animax" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="Entertainment" group-title="Entertainment",Animax
 http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
 
-#EXTINF:0,MY: ANIMAX HD
+#EXTINF:0 group-title="Entertainment",MY: ANIMAX HD
 http://iptvtree.net:8080/test-e78555/cf00/157486
 
-#EXTINF:0,MY: ANIPLUS HD
+#EXTINF:0 group-title="Entertainment",MY: ANIPLUS HD
 http://iptvtree.net:8080/test-e78555/cf00/157566
 
 #EXTINF:-1 tvg-id="AFN.MY" tvg-name="Asian Food Network" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Entertainment",Asian Food Network
@@ -785,16 +827,16 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 #EXTINF:-1 tvg-id="AFN.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428165_ico.png" group-title="Entertainment",VIP MLZ: ASIAN FOOD CHANNEL
 http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28705
 
-#EXTINF:0,MY: AFN HD
+#EXTINF:0 group-title="Entertainment",MY: AFN HD
 http://iptvtree.net:8080/test-e78555/cf00/157549
 
-#EXTINF:0,MY: ASTRO AFN HD
+#EXTINF:0 group-title="Entertainment",MY: ASTRO AFN HD
 http://iptvtree.net:8080/test-e78555/cf00/264478
 
-#EXTINF:0,MY: ASTRO FOOD NTWK HD
+#EXTINF:0 group-title="Entertainment",MY: ASTRO FOOD NTWK HD
 http://iptvtree.net:8080/test-e78555/cf00/264495
 
-#EXTINF:0,MY: Food Network HD
+#EXTINF:0 group-title="Entertainment",MY: Food Network HD
 http://iptvtree.net:8080/test-e78555/cf00/196454
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -811,7 +853,7 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3
 #EXTINF:0 group-title="Entertainment",MY ANIMAL PLANET HD
 http://iptvtree.net:8080/test-e78555/cf00/220139
 
-#EXTINF:0,MY: ASTRO ANIMAL PLANET HD
+#EXTINF:0 group-title="Entertainment",MY: ASTRO ANIMAL PLANET HD
 http://iptvtree.net:8080/test-e78555/cf00/264480
 
 #EXTINF:-1 tvg-id="BBE.UK" tvg-name="BBC Earth" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Entertainment",BBC Earth
@@ -826,10 +868,10 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="CIA.MY" tvg-name="Crime + Investigation" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="Entertainment",Crime + Investigation
 http://203.154.243.31:15001
 
-#EXTINF:0,MY: Crime+ Investigation HD
+#EXTINF:0 group-title="Entertainment",MY: Crime+ Investigation HD
 http://iptvtree.net:8080/test-e78555/cf00/157554
 
-#EXTINF:0,MY: C&I HD
+#EXTINF:0 group-title="Entertainment",MY: C&I HD
 http://iptvtree.net:8080/test-e78555/cf00/247438
 
 #EXTINF:-1 tvg-id="COM.US" tvg-name="Comedy Central" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="Entertainment",Comedy Central
@@ -841,13 +883,16 @@ https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="Entertainment",Comedy Central a
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:0,MY: COMEDY CENTRAL
+#EXTINF:0 group-title="Entertainment",MY: COMEDY CENTRAL
 http://iptvtree.net:8080/test-e78555/cf00/157552
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9759856_ico.png" group-title="Entertainment",LOVE NATURE 4K
 http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
+
+#EXTINF:0 group-title="Entertainment",MY: Love Nature HD
+http://iptvtree.net:8080/test-e78555/cf00/264793
 
 #EXTINF:-1 tvg-id="DAV.Asia" tvg-name="Da Vinci" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Entertainment",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
@@ -858,19 +903,19 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment",DISCOVERY HD
 http://iptvfhd.com:8000/50384518504192/79820147173458/63
 
-#EXTINF:0,MY: Discovery Channel HD
+#EXTINF:0 group-title="Entertainment",MY: Discovery Channel HD
 http://iptvtree.net:8080/test-e78555/cf00/157528
 
-#EXTINF:0,MY: ASTRO Discovery HD
+#EXTINF:0 group-title="Entertainment",MY: ASTRO Discovery HD
 http://iptvtree.net:8080/test-e78555/cf00/264488
 
 #EXTINF:0 group-title="Entertainment",MY Discovery Channel HD
 http://iptvtree.net:8080/test-e78555/cf00/220545
 
-#EXTINF:0,MY: ASTRO Discovery Science HD
+#EXTINF:0 group-title="Entertainment",MY: ASTRO Discovery Science HD
 http://iptvtree.net:8080/test-e78555/cf00/264473
 
-#EXTINF:0,MY: Discovery Science HD
+#EXTINF:0 group-title="Entertainment",MY: Discovery Science HD
 http://iptvtree.net:8080/test-e78555/cf00/157530
 
 #EXTINF:-1 tvg-id="DIS.Asia" tvg-name="Discovery Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Entertainment",Discovery Asia
@@ -879,7 +924,7 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 #EXTINF:0 group-title="Entertainment",MY Discovery ASIA
 http://iptvtree.net:8080/test-e78555/cf00/220547
 
-#EXTINF:0,MY: Discovery ASIA
+#EXTINF:0 group-title="Entertainment",MY: Discovery ASIA
 http://iptvtree.net:8080/test-e78555/cf00/157536
 
 #EXTINF:0 group-title="Entertainment",MY Discovery Science HD
@@ -897,10 +942,10 @@ http://iptvfhd.com:8000/50384518504192/79820147173458/376
 #EXTINF:0 group-title="Entertainment",MY Disney Channel HD
 http://iptvtree.net:8080/test-e78555/cf00/221286
 
-#EXTINF:0,MY: Disney Channel HD
+#EXTINF:0 group-title="Entertainment",MY: Disney Channel HD
 http://iptvtree.net:8080/test-e78555/cf00/157482
 
-#EXTINF:0,MY: Disney JUNIOR
+#EXTINF:0 group-title="Entertainment",MY: Disney JUNIOR
 http://iptvtree.net:8080/test-e78555/cf00/157539
 
 #EXTINF:0 group-title="Entertainment",MY Disney JUNIOR
@@ -924,7 +969,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
 #EXTINF:0 group-title="Entertainment",MY History HD
 http://iptvtree.net:8080/test-e78555/cf00/220944
 
-#EXTINF:0,MY: ASTRO History HD
+#EXTINF:0 group-title="Entertainment",MY: ASTRO History HD
 http://iptvtree.net:8080/test-e78555/cf00/264470
 
 #EXTINF:-1 group-title="Entertainment",OSN History HD
@@ -935,7 +980,7 @@ http://iptvfhd.com:8000/50384518504192/79820147173458/86629
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:0,MY: History HD
+#EXTINF:0 group-title="Entertainment",MY: History HD
 http://iptvtree.net:8080/test-e78555/cf00/157480
 
 #EXTINF:-1 tvg-id="HGT.US" tvg-name="HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="Entertainment",HGTV
@@ -949,10 +994,10 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:0 group-title="Entertainment",MY HGTV HD
 http://iptvtree.net:8080/test-e78555/cf00/221744
 
-#EXTINF:0,MY: ASTRO HGTV HD
+#EXTINF:0 group-title="Entertainment",MY: ASTRO HGTV HD
 http://iptvtree.net:8080/test-e78555/cf00/264490
 
-#EXTINF:0,MY: HGTV HD
+#EXTINF:0 group-title="Entertainment",MY: HGTV HD
 http://iptvtree.net:8080/test-e78555/cf00/157553
 
 #EXTINF:-1 tvg-id="POP.UK" tvg-name="Pop UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="Entertainment",Pop UK
@@ -973,8 +1018,14 @@ http://iptvfhd.com:8000/50384518504192/79820147173458/139
 #EXTINF:0 group-title="Entertainment",MY NAT GEO HD
 http://iptvtree.net:8080/test-e78555/cf00/220849
 
-#EXTINF:0,MY: ASTRO NAT GEO HD
+#EXTINF:0 group-title="Entertainment",MY: ASTRO NAT GEO HD
 http://iptvtree.net:8080/test-e78555/cf00/264471
+
+#EXTINF:0 group-title="Entertainment",MY: NAT GEO HD
+http://iptvtree.net:8080/test-e78555/cf00/264508
+
+#EXTINF:0 group-title="Entertainment",MY: NAT GEO Asia HD
+http://iptvtree.net:8080/test-e78555/cf00/157531
 
 #EXTINF:-1 tvg-id="NGP.US" tvg-name="Nat Geo People" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="Entertainment",Nat Geo People
 http://103.47.132.164/PLTV/88888888/224/3221227127/index.m3u8
@@ -987,8 +1038,11 @@ https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 #EXTINF:0 group-title="Entertainment",MY NAT GEO People
 http://iptvtree.net:8080/test-e78555/cf00/220850
 
-#EXTINF:0,MY: ASTRO NAT GEO PEOPLE
+#EXTINF:0 group-title="Entertainment",MY: ASTRO NAT GEO PEOPLE
 http://iptvtree.net:8080/test-e78555/cf00/264477
+
+#EXTINF:0 group-title="Entertainment",MY: NAT GEO People
+http://iptvtree.net:8080/test-e78555/cf00/157551
 
 #EXTINF:-1 tvg-id="NGW.US" tvg-name="Nat Geo Wild" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Entertainment",Nat Geo Wild
 http://103.47.132.164/PLTV/88888888/224/3221227157/index.m3u8
@@ -998,11 +1052,14 @@ http://103.47.132.164/PLTV/88888888/224/3221227157/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:0,MY NAT GEO WILD HD
+#EXTINF:0 group-title="Entertainment",MY NAT GEO WILD HD
 http://iptvtree.net:8080/test-e78555/cf00/220859
 
-#EXTINF:0,MY: ASTRO NAT GEO Wild HD
+#EXTINF:0 group-title="Entertainment",MY: ASTRO NAT GEO Wild HD
 http://iptvtree.net:8080/test-e78555/cf00/264507
+
+#EXTINF:0 group-title="Entertainment",MY: NAT GEO WILD HD
+http://iptvtree.net:8080/test-e78555/cf00/174724
 
 #EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="Entertainment",Nick 1
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -1016,14 +1073,23 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 #EXTINF:-1 group-title="Entertainment",OSN Nick Jr HD
 http://iptvfhd.com:8000/50384518504192/79820147173458/86615
 
-#EXTINF:0,MY NICK KD
+#EXTINF:0 group-title="Entertainment",MY: Nick Junior
+http://iptvtree.net:8080/test-e78555/cf00/157546
+
+#EXTINF:0 group-title="Entertainment",MY NICK KD
 http://iptvtree.net:8080/test-e78555/cf00/221621
+
+#EXTINF:0 group-title="Entertainment",MY: NICK KD
+http://iptvtree.net:8080/test-e78555/cf00/174711
 
 #EXTINF:0,MY: ASTRO nickelodeon HD
 http://iptvtree.net:8080/test-e78555/cf00/264489
 
-#EXTINF:0,MY nickelodeon HD
+#EXTINF:0 group-title="Entertainment",MY nickelodeon HD
 http://iptvtree.net:8080/test-e78555/cf00/221610
+
+#EXTINF:0 group-title="Entertainment",MY: nickelodeon HD
+http://iptvtree.net:8080/test-e78555/cf00/157541
 
 #EXTINF:-1 group-title="Entertainment",OSN Nickelodeon HD
 http://iptvfhd.com:8000/50384518504192/79820147173458/86614
@@ -1037,10 +1103,10 @@ http://iptvfhd.com:8000/50384518504192/79820147173458/23713
 #EXTINF:0 group-title="Entertainment",MY CARTOON NETWORK
 http://iptvtree.net:8080/test-e78555/cf00/220070
 
-#EXTINF:0,MY: ASTRO CARTOON NETWORK HD
+#EXTINF:0 group-title="Entertainment",MY: ASTRO CARTOON NETWORK HD
 http://iptvtree.net:8080/test-e78555/cf00/264472
 
-#EXTINF:0,MY: CARTOON NETWORK
+#EXTINF:0 group-title="Entertainment",MY: CARTOON NETWORK
 http://iptvtree.net:8080/test-e78555/cf00/174684
 
 #EXTINF:-1 group-title="Entertainment",LOONEY TUNES
@@ -1067,11 +1133,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2e
 #EXTINF:-1 tvg-id="CGD.News" tvg-name="CGTN Documentary" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="Entertainment",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:0,MY: ASTRO CGTN
+#EXTINF:0 group-title="Entertainment",MY: ASTRO CGTN
 http://iptvtree.net:8080/test-e78555/cf00/264505
 
-#EXTINF:0,MY: ASTRO MTV
+#EXTINF:0 group-title="Entertainment",MY: ASTRO MTV
 http://iptvtree.net:8080/test-e78555/cf00/264504
+
+#EXTINF:0 group-title="Entertainment",MY: MTV
+http://iptvtree.net:8080/test-e78555/cf00/157555
+
+#EXTINF:0 group-title="Entertainment",MY: MTV Asia
+http://iptvtree.net:8080/test-e78555/cf00/171964
 
 #EXTINF:-1 group-title="Entertainment",OSN E! Entertainment HD
 http://iptvfhd.com:8000/50384518504192/79820147173458/86635
@@ -1118,20 +1190,33 @@ http://iptvfhd.com:8000/50384518504192/79820147173458/75109
 #EXTINF:-1 group-title="Entertainment",USA: DIY Network HD
 http://iptvfhd.com:8000/50384518504192/79820147173458/75169
 
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: KPLUS HD
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/33268
-
-#EXTINF:-1 group-title="Entertainment",VIP MLZ: Laku Mall
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/28666
-
-#EXTINF:0,MY Travel Channel HD
+#EXTINF:0 group-title="Entertainment",MY Travel Channel HD
 http://iptvtree.net:8080/test-e78555/cf00/221077
 
-#EXTINF:0,MY: ASTRO KPLUS HD
+#EXTINF:0 group-title="Entertainment",MY: Travel Channel HD
+http://iptvtree.net:8080/test-e78555/cf00/171977
+
+#EXTINF:0 group-title="Entertainment",MY: ASTRO KPLUS HD
 http://iptvtree.net:8080/test-e78555/cf00/264462
 
-#EXTINF:0,MY: ASTRO Oh!K HD
+#EXTINF:0 group-title="Entertainment",MY: ASTRO Oh!K HD
 http://iptvtree.net:8080/test-e78555/cf00/247426
+
+#EXTINF:0 group-title="Entertainment",MY: KPLUS HD
+http://iptvtree.net:8080/test-e78555/cf00/157567
+
+#EXTINF:0 group-title="Entertainment",MY: Luxe TV HD
+http://iptvtree.net:8080/test-e78555/cf00/264794
+
+#EXTINF:0 group-title="Entertainment",MY: WWE Network
+http://iptvtree.net:8080/test-e78555/cf00/157562
+
+#EXTINF:0 group-title="Entertainment",MY: BOO
+http://iptvtree.net:8080/test-e78555/cf00/171958
+
+#EXTINF:0 group-title="Entertainment",MY: Hypp Sensasi HD
+http://iptvtree.net:8080/test-e78555/cf00/174693
+
 
 
 
