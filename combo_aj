@@ -1023,6 +1023,9 @@ http://iptvtree.net:8080/test-e78555/cf00/157555
 #EXTINF:0 group-title="Entertainment",MY: MTV Asia
 http://iptvtree.net:8080/test-e78555/cf00/171964
 
+#EXTINF:-1 tvg-id="KER.UK" tvg-name="Kerrang!" tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="Entertainment",Kerrang!
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+
 #EXTINF:0 group-title="Entertainment",MY Travel Channel HD
 http://iptvtree.net:8080/test-e78555/cf00/221077
 
