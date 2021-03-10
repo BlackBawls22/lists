@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group title"VARIETY", TV1
+#EXTINF:-1 group title"VARIETY",TV1
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/9609
-#EXTINF:-1 group title"VARIETY", TV2
+#EXTINF:-1 group title"VARIETY",TV2
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/9608
 #EXTINF:-1 group title"VARIETY", TV3
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/9607
@@ -142,9 +142,9 @@ http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/33268
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/33281
 
 
-#EXTINF:-1 group title"MOVIES", XTROX BOX OFFICE
+#EXTINF:-1 group title"MOVIES",XTROX BOX OFFICE
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/50889
-#EXTINF:-1 group title"MOVIES", XTROX AOD 1
+#EXTINF:-1 group title"MOVIES",XTROX AOD 1
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/33288
 #EXTINF:-1 group title"MOVIES", XTROX AOD 2
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/33289
@@ -238,7 +238,7 @@ http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/33243
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/28686
 #EXTINF:-1 group title"INFOTAINMENT", DISCOVERY SCI HD
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/33259
-#EXTINF:-1 group title"INFOTAINMENT", History HD
+#EXTINF:-1 group title"INFOTAINMENT",History HD
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/9594
 #EXTINF:-1 group title"INFOTAINMENT", NAT GEO ASIA HD
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/28659
@@ -262,7 +262,7 @@ http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/33284
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/28680
 #EXTINF:-1 group title"LIFESTYLE", HGTV
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/28667
-#EXTINF:-1 group title"LIFESTYLE", TLC
+#EXTINF:-1 group title"LIFESTYLE",TLC
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/28638
 #EXTINF:-1 group title"LIFESTYLE", DIVA HD
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/28682
@@ -314,7 +314,7 @@ http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/56307
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/28679
 #EXTINF:-1 group title"SPORTS", FOX SPORTS 1
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/28675
-#EXTINF:-1 group title"SPORTS", FOX SPORTS 2
+#EXTINF:-1 group title"SPORTS",FOX SPORTS 2
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/28674
 #EXTINF:-1 group title"SPORTS", FOX SPORTS 3
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/28673
@@ -340,7 +340,7 @@ http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/28640
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/28639
 
 
-#EXTINF:-1 group title"NEWS", Adithya TV
+#EXTINF:-1 group title"NEWS",Adithya TV
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/56300
 #EXTINF:-1 group title"NEWS", BERNAMA
 http://client-proplus.com:8080/5dtxsJhWke/jnBmmzMJ7y/56301
