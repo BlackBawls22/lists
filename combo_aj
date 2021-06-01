@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="1" channel-id="1" group-title="MYSG",TV1
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="1" channel-id="101" group-title="MYSG",TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="2" channel-id="2" group-title="MYSG",TV2
+#EXTINF:-1 tvg-id="103" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="2" channel-id="2" group-title="MYSG",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="MYSG",TV3
+#EXTINF:-1 tvg-id="106" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="MYSG",TV3
 https://androidrepublica.website/List/Dailymotion/tv3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
-#EXTINF:-1 tvg-id="147.my" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" tvg-chno="4" channel-id="4" group-title="MYSG",NTV7
+#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" tvg-chno="4" channel-id="4" group-title="MYSG",NTV7
 https://androidrepublica.website/List/Dailymotion/ntv7.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
 
 #EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" tvg-chno="5" channel-id="5" group-title="MYSG",8TV
@@ -29,10 +29,7 @@ https://fvtv.mywire.org/dash/tvalhijrah.mpd
 #EXTINF:-1 tvg-id="Okey.my" tvg-name="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" tvg-chno="9" channel-id="9" group-title="MYSG",OKEY
 https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:0 tvg-id="122" group-title="MYSG",MY: TVS
-http://iptvtree.net:8080/test-e78555/cf00/247442
-
-#EXTINF:-1 tvg-id="122.my" tvg-name="TVS" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="" group-title="MYSG",TVS
+#EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-language="" tvg-logo="" tvg-url="" group-title="MYSG",TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
 #EXTINF:-1 tvg-id="501" tvg-name="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" tvg-chno="59" channel-id="59" group-title="MYSG",Astro Awani
