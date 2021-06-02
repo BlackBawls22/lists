@@ -38,10 +38,10 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://i.postimg.cc/t70wrgRf/TVS-Sarawak.jpg" group-title="MYSG",TVS
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6846
 
-#EXTINF:-1 tvg-id="" tvg-name="TV6" tvg-language="" tvg-logo="" tvg-url="" group-title="MYSG",TV6
+#EXTINF:-1 tvg-id="" tvg-name="TV6" tvg-language="" tvg-logo="https://telegra.ph/file/04d73bd40aaf937296d26.png" tvg-url="" group-title="MYSG",TV6
 https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
-#EXTINF:-1, tvg-id="123" tvg-logo="https://telegra.ph/file/dcfe3ac04822ae28becdd.png" group-title="LIVE TV",Awesome TV
+#EXTINF:-1, tvg-id="123" tvg-logo="https://telegra.ph/file/dcfe3ac04822ae28becdd.png" group-title="MYSG",Awesome TV
 http://51.79.208.146:61980/myplay/c_58014/index.m3u8
 
 #EXTINF:-1 tvg-id="501" tvg-name="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" tvg-chno="59" channel-id="59" group-title="MYSG",Astro Awani
@@ -532,7 +532,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227537/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-url="" group-title="Movies",Celestial Movies (480p)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
-#EXTINF:-1 tvg-id="712" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png" tvg-url="" group-title="Movies",Warner TV
+#EXTINF:-1 tvg-id="712" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png" group-title="Movies",Warner TV
 http://203.154.243.89:11205/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
