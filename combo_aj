@@ -29,11 +29,20 @@ https://fvtv.mywire.org/dash/tvalhijrah.mpd
 #EXTINF:-1 tvg-id="Okey.my" tvg-name="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" tvg-chno="9" channel-id="9" group-title="MYSG",OKEY
 https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-language="" tvg-logo="" tvg-url="" group-title="MYSG",TVS
+#EXTINF:-1 tvg-id="Okey.my" tvg-name="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" tvg-chno="9" channel-id="9" group-title="MYSG",OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-language="" tvg-logo="https://i.postimg.cc/t70wrgRf/TVS-Sarawak.jpg" tvg-url="" group-title="MYSG",TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://i.postimg.cc/t70wrgRf/TVS-Sarawak.jpg" group-title="MYSG",TVS
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6846
 
 #EXTINF:-1 tvg-id="" tvg-name="TV6" tvg-language="" tvg-logo="" tvg-url="" group-title="MYSG",TV6
 https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+
+#EXTINF:-1, tvg-id="123" tvg-logo="https://telegra.ph/file/dcfe3ac04822ae28becdd.png" group-title="LIVE TV",Awesome TV
+http://51.79.208.146:61980/myplay/c_58014/index.m3u8
 
 #EXTINF:-1 tvg-id="501" tvg-name="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" tvg-chno="59" channel-id="59" group-title="MYSG",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -406,6 +415,9 @@ http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
 #EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies", FX a
 http://62.210.127.217:8080/0B8gcaCVWSKWF7T1/Zmuqs1uhau6bA6rV/28671?token=QhVcUhcJRggXVFZRBQIIAFkHUAoCVQJUAFxRUARXBFkLU1dXVwVVBwRGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QBlIEVQNWEhhDQl9eBEReUlNUB1RXW1RUDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
+#EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/dd3aeb1d6bc7b25edbafb.png",FX Cinema HD CH713
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6795
+
 #EXTINF:-1 tvg-id="415" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies", Fox Action Movies
 http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28778?play_token=8XI9jB1I3H&token=QhVcUhcJRggXVQFSU1QHDFgBBgRYVAFSXAAAAwdRUAVaAFEAV1JTUQBGGURBEkJRAFtpWgVEXlFdUwJZSkAXElxFa1oAQ14QDV0NVgdQEhhDQl9eBEReUlNUAFdeV1ZZCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
@@ -413,6 +425,15 @@ http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28778?play_token=8XI9jB1I3H&toke
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-name="304" tvg-id="415" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428182_ico.png" group-title="Movies", FOX ACTION MOVIE b
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
+
+#EXTINF:-1 tvg-id="foxactionmovieshd.id" tvg-name="Fox Action Movies" tvg-logo="https://i.postimg.cc/C13tZyVj/fox-action-movies-logo.png" group-title="Movies",Fox Action Movies c
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8839
+
+#EXTINF:-1 tvg-id="415" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies", Fox Action Movies d
+tvbus://6E1nceb7yUvewmwy2onEPyJ5T7bQTaJSV3iUUBrAcdoJrLE9bj6G96EvgzkEJ
+
+#EXTINF:-1 tvg-id="foxmoviespremiumhd.id" tvg-name="Fox Movies Premium" tvg-logo="https://i.postimg.cc/gJ6Xvyvy/images-27.jpg" group-title="Movies",Fox Movies Premium
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8838
 
 #EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies", FOX a
 http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28777?play_token=V1D4GAfWM9&token=QhVcUhcJRggXAFACBVQBAVcOU1ZYBQFQBgANWANWUlgIAgBVUVBdV1NGGURBEkJRAFtpWgVEXlFdUwJWSkAXElxFa1oAQ14QDV0NVgdQEhhDQl9eBEReUlNUAFdeV1RYCRsWQw0FRggXVQ1RAUQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRANUAARDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVwpQBhYc
@@ -442,6 +463,9 @@ http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 
 #EXTINF: -1 tvg-id="411" tvg-logo="https://www.tvchinese.net/uploads/tv/hbohd.jpg" group-title="Movies", HBO HD (B)
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1, tvg-id="411" group-title="Movies" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [English Sub]
+http://rv.imax.re:80/7076610784/1167304977/79755
 
 #EXTINF:-1 tvg-id="Hbf.Asia" tvg-name="HBO Family" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="Movies",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
@@ -549,6 +573,9 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="709" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428165_ico.png" group-title="Entertainment",AFN b
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+
+#EXTINF:-1 tvg-id="708" tvg-name="Food Network HD" tvg-logo="https://i.postimg.cc/HnmQp48s/Food-Network-New-Logo.png" group-title="Entertainment",Food Network HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6785
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
