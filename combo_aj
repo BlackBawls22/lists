@@ -535,6 +535,12 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-id="712" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png" group-title="Movies",Warner TV
 http://203.154.243.89:11205/
 
+#EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png",Warner TV CH712
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
+
+#EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/dd3aeb1d6bc7b25edbafb.png",FX Cinema HD CH713
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6795
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-id="WAR.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/warner.png" group-title="Movies",WARNER
@@ -573,6 +579,9 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="709" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428165_ico.png" group-title="Entertainment",AFN b
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+
+#EXTINF:-1, tvg-id="709" group-title="Entertainment" tvg-logo="https://telegra.ph/file/a2923d83242d2e31e2e1a.png",Asian Food Network HD CH709
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
 
 #EXTINF:-1 tvg-id="708" tvg-name="Food Network HD" tvg-logo="https://i.postimg.cc/HnmQp48s/Food-Network-New-Logo.png" group-title="Entertainment",Food Network HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6785
@@ -706,18 +715,20 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b99
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="APAC" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" tvg-url="" group-title="Entertainment",Channel V
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 
+#EXTINF:-1 tvg-id="ChannelV.cn" tvg-name="Channel V" tvg-country="APAC" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",Channel V
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+
 #EXTINF:-1 tvg-id="MTV.US" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="Entertainment",MTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://telegra.ph/file/a0ebcbce2d363e3b2aaf5.png",MTV CH718
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6807
 
 #EXTINF:-1 tvg-id="CGD.News" tvg-name="CGTN Documentary" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="Entertainment",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="KER.UK" tvg-name="Kerrang!" tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="Entertainment",Kerrang!
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
-
-
-
-
 
 
 
@@ -972,3 +983,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 
 #EXTINF:-1 group-title="Korea",VIP DPRK: North Korea TV
 http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/13853
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7: How I Met Your Mother" tvg-logo="" group-title="24/7",24/7: How I Met Your Mother
+http://fes7.ppiao.club:8880/dgtest310/55668833/60118
