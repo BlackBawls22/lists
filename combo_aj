@@ -185,6 +185,11 @@ http://103.47.132.164/PLTV/88888888/224/3221227329/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
+#EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Movies",Hits b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
 #EXTINF:-1 tvg-id="705" tvg-name="KIX" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="MYSG",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
@@ -291,9 +296,6 @@ http://185.59.223.135/espn/index.m3u8
 
 #EXTINF:-1 tvg-id="ES2.US" tvg-name="ESPN 2" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="Sports",ESPN 2
 http://185.59.223.135/espn2/index.m3u8
-
-#EXTINF:-1 tvg-id="ESB.BR" tvg-name="ESPN Brasil" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Sports",ESPN Brasil
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
 
 #EXTINF:-1 tvg-id="Fig.Int" tvg-name="Fight Sports" tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="Sports",Fight Sports
 http://103.47.132.164/PLTV/88888888/224/3221227065/index.m3u8
@@ -475,9 +477,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-name="304" tvg-id="Hbf.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="Movies",HBO FAMILY b
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 
-#EXTINF:-1 group-title="Movies",VIP|USA| HBO FAMILY HD
-http://iptvfhd.com:8000/50384518504192/79820147173458/79756
-
 #EXTINF:-1 tvg-id="Hbh.Asia" tvg-name="HBO Hits" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="Movies",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
@@ -499,11 +498,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 #EXTINF:-1 tvg-id="401" tvg-name="Hit Movies" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="Movies",Hits Movies
 http://103.47.132.164/PLTV/88888888/224/3221227331/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Movies",Hits a
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #EXTINF:-1 tvg-id="RON.ID" tvg-name="Romedy Now" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="Movies",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
@@ -980,9 +974,6 @@ http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 
 #EXTINF:-1 tvg-id="TBX.UK" tvg-name="The Box" tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="UK",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-
-#EXTINF:-1 group-title="Korea",VIP DPRK: North Korea TV
-http://client-prolive.club:8080/VRgkX1ucWH/2pCRwfAJDA/13853
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7: How I Met Your Mother" tvg-logo="" group-title="24/7",24/7: How I Met Your Mother
 http://fes7.ppiao.club:8880/dgtest310/55668833/60118
