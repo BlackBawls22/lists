@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg=" https://weareblahs.github.io/epg/astro.xml" refresh="3600"
 
 #EXTINF:-1 tvg-id="101" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="1" channel-id="395" group-title="MYSG",TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
@@ -8,6 +8,12 @@ https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="MYSG",TV3
 https://androidrepublica.website/List/Dailymotion/tv3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="MYSG",TV3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
+http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd|User-Agent=DmpPlayer/20.0.25.15 (Android 7.1.2; accd121c-2f28-43fd-82ec-5165bdd83549; SM-G955F)
+# http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd|User-Agent=
 
 #EXTINF:-1 tvg-id="147" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" tvg-chno="4" channel-id="4" group-title="MYSG",NTV7
 https://androidrepublica.website/List/Dailymotion/ntv7.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
@@ -216,6 +222,11 @@ http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/dunia%20sinema.png" group-title="MYSG",DUNIA SINEMA
 http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/dunia%20sinema.png" group-title="MYSG",DUNIA SINEMA A
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
+http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/persona.png" group-title="MYSG",PERSONA
@@ -403,12 +414,22 @@ http://62.210.127.9:25461/HD7h01ubac/DmJZUgFGkn/28774?play_token=7IXreY07Xo&toke
 #EXTINF:-1 tvg-name="413" tvg-id="413" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428181_ico.png" group-title="Movies", FOX MOVIE b
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 
+#EXTINF:-1 tvg-name="413" tvg-id="413" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428181_ico.png" group-title="Movies", FOX MOVIE c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
+http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
+
 #EXTINF:-1 tvg-id="414" tvg-name="Fox Family Movies" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies", Fox Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-name="304" tvg-id="414" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428183_ico.png" group-title="Movies", FOX FAMILY MOVIE
+http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
+
+#EXTINF:-1 tvg-name="304" tvg-id="414" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428183_ico.png" group-title="Movies", FOX FAMILY MOVIE b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
 http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 
 #EXTINF:-1 tvg-id="FXX.Asia" tvg-name="FX" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="Movies", FX
@@ -433,6 +454,11 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/8839
 
 #EXTINF:-1 tvg-id="415" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies", Fox Action Movies d
 tvbus://6E1nceb7yUvewmwy2onEPyJ5T7bQTaJSV3iUUBrAcdoJrLE9bj6G96EvgzkEJ
+
+#EXTINF:-1 tvg-id="415" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies", Fox Action Movies e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
+http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
 #EXTINF:-1 tvg-id="foxmoviespremiumhd.id" tvg-name="Fox Movies Premium" tvg-logo="https://i.postimg.cc/gJ6Xvyvy/images-27.jpg" group-title="Movies",Fox Movies Premium
 http://iptv.tvmalaysia.cc:80/penang172/penang172/8838
@@ -511,6 +537,11 @@ http://103.47.132.164/PLTV/88888888/224/3221227233/index.m3u8
 #EXTINF:-1 tvg-id="PAR.US" tvg-name="Paramount Network" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="Movies",Paramount Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
+#EXTINF:-1 tvg-id="PAR.US" tvg-name="Paramount Network" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="Movies",Paramount HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
+http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
+
 #EXTINF:-1 tvg-id="SMA.UK" tvg-name="Sony Movies Action" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="Movies",Sony Movies Action
 http://51.52.156.22:8888/http/009
 
@@ -528,6 +559,11 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-id="712" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png" group-title="Movies",Warner TV
 http://203.154.243.89:11205/
+
+#EXTINF:-1 tvg-id="712" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png" group-title="Movies",Warner TV a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
+http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
 
 #EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png",Warner TV CH712
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
