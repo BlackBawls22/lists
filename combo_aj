@@ -25,7 +25,7 @@ https://androidrepublica.website/List/Dailymotion/8tv.m3u8|Referer=https://www.d
 https://androidrepublica.website/List/Dailymotion/tv9.m3u8|https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
 
 #EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" tvg-chno="7" channel-id="7" group-title="MYSG",Drama Sangat
-https://androidrepublica.website/List/Dailymotion/drama.m3u8|https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
+http://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="114" tvg-name="AL Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" tvg-chno="8" channel-id="8" group-title="MYSG",AL Hijrah
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -106,12 +106,12 @@ http://freeview.mywire.org:9090/streams/rtmsports.m3u8|Referer=https://myklik.rt
 
 
 
-#EXTINF:-1 tvg-id="Channel5.sg" tvg-name="Channel 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Mc5.jpg" tvg-chno="23" channel-id="23" group-title="MYSG",Channel 5
+#EXTINF:-1 tvg-id="Channel5.sg" tvg-name="Channel 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" tvg-chno="23" channel-id="23" group-title="MYSG",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-#EXTINF:-1 tvg-id="Channel8.sg" tvg-name="Channel 8" tvg-logo="https://www.mewatch.sg/image/5249134/16x9/947/533/47350f877c34609e643ae8c786ed8dd/Qc/suria.png" tvg-chno="24" channel-id="24" group-title="MYSG",Channel 8
+#EXTINF:-1 tvg-id="Channel8.sg" tvg-name="Channel 8" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" tvg-chno="24" channel-id="24" group-title="MYSG",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
@@ -121,7 +121,7 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="Suria.sg" tvg-name="Suria" tvg-logo="https://www.mewatch.sg/image/5249134/16x9/947/533/47350f877c34609e643ae8c786ed8dd/Qc/suria.png" tvg-chno="26" channel-id="26" group-title="MYSG",Suria
+#EXTINF:-1 tvg-id="Suria.sg" tvg-name="Suria" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" tvg-chno="26" channel-id="26" group-title="MYSG",Suria
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiI1NzU0MDY1IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=K5QHleHoJp4T8XdlfjAOjm2eSaA%3D&
 https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd
@@ -529,7 +529,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-name="304" tvg-id="Hbs.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="Movies",HBO SIGNATURE a
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
 
-#EXTINF:-1 tvg-id="Red.Asia" tvg-name="Red by HBO" tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png" group-title="Movies",Red by HBO
+#EXTINF:-1 tvg-id="Red.Asia" tvg-name="Red by HBO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/608_1920x1080_HTV.png" group-title="Movies",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 #EXTINF:-1 tvg-id="401" tvg-name="Hit Movies" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="Movies",Hits Movies
