@@ -103,8 +103,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
 http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd
 
-
-
 #EXTINF:-1 tvg-id="Channel5.sg" tvg-name="Channel 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" tvg-chno="23" channel-id="23" group-title="MYSG",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
@@ -181,35 +179,29 @@ https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" tvg-url="" group-title="MYSG",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 
-#EXTINF:-1 tvg-id="502" tvg-name="Bernama" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MYSG",Bernama
-https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
+#EXTINF:-1 tvg-id="502" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",BERNAMA 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
+http://1.9.58.102/PLTV/88888888/224/3221227511/3221227511.mpd
 
-#EXTINF:-1 tvg-id="702" tvg-name="Hello" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="MYSG",Hello
-https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
+#EXTINF:-1 tvg-id="702" group-title="MYSG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
 #EXTINF:-1 tvg-id="706" tvg-name="Hits" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="MYSG",Hits
 http://103.47.132.164/PLTV/88888888/224/3221227329/index.m3u8
 
-#EXTINF:-1 tvg-id="706" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="MYSG",Hits a
+#EXTINF:-1 tvg-id="706" group-title="MYSG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",HITS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="MYSG",Hits b
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-
-#EXTINF:-1 tvg-id="705" tvg-name="KIX" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="MYSG",KIX
+#EXTINF:-1 tvg-id="705" tvg-name="KIX" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="MYSG",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-id="114" group-title="MYSG" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV AlHijrah HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-ID="705" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="MYSG",KIX b
-https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-
-#EXTINF:-1 tvg-id="114" tvg-name="AL Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="MYSG",AL Hijrah
-https://fvtv.mywire.org/playlist/nujj7qrkcz-u0wjkpejqa.m3u8|Referer=https://www.youtube.com
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
+http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
 
 #EXTINF:-1 tvg-id="SalamHD" group-title="MYSG" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -243,9 +235,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
 
 
 
-#EXTINF:-1 tvg-id="BRE.MY" tvg-name="Berita RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="News",Berita RTM
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
-
 #EXTINF:-1 tvg-id="BERITARTM" group-title="News" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
@@ -260,10 +249,7 @@ https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:-1 tvg-id="CBSN.US" tvg-name="CBSN" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f9/CBSN_channel_Logo.png" group-title="News",CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-id="CNN.News" tvg-name="CNN" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN
-http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="CNNHD" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN
+#EXTINF:-1 tvg-id="CNNHD" group-title="News" tvg-logo="http://static.epg.best/gb/CNN.uk.png",CNN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
@@ -271,10 +257,10 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 #EXTINF:-1 tvg-id="CNW.News" tvg-name="CNBC World" tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="News",CNBC World
 http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cna.SG" tvg-name="CNA" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="News",CNA
+#EXTINF:-1 tvg-id="Cna.SG" tvg-name="CNA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" group-title="News",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-id="ChannelNewsAsia" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel NewsAsia
+#EXTINF:-1 tvg-id="ChannelNewsAsia" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
 http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd
