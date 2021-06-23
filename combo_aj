@@ -68,6 +68,9 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m
 #EXTINF:-1 tvg-id="TVi.my" tvg-name="TVIKIM" tvg-logo="https://static.epg.best/my/TVi.my.png" tvg-chno="11" channel-id="11" group-title="MYSG",TVIKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?fbclid=IwAR0gHbmTms16QysOYsKELXivRa47GYg-q4SDT8_hCWKO3kisY36mLxBSmL4
 
+#EXTINF:-1 tvg-id="TVi.my" tvg-name="TVIKIM" tvg-logo="https://static.epg.best/my/TVi.my.png" tvg-chno="11" channel-id="11" group-title="MYSG",TVIKIM
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
 #EXTINF:-1 tvg-id="105" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" tvg-chno="12" channel-id="12" tvg-group="MY/SG" group-title="MYSG",Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
@@ -98,6 +101,9 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
 #EXTINF:-1 tvg-id="118" tvg-name="Astro Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png" tvg-chno="20" channel-id="20" tvg-group="MY/SG" group-title="MYSG",Astro Go
 http://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+
+#EXTINF:-1 tvg-id="boo.my" tvg-name="Astro BOO" tvg-logo="http://dmtn.tv:8080/images/73459459ad49400dc0336935f1743e3f.png" group-title="MYSG",Astro Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="618" group-title="MYSG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/302_1920x1080_HTV.png",Baby TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -605,6 +611,13 @@ http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#EXTINF:-1 tvg-id="celestialmovies.my" tvg-name="CELESTIAL MOVIES" tvg-logo="http://dmtn.tv:8080/images/07b2a3849c597f26063de610ea681537.png" group-title="Movies",Celestial Movies
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+
+#EXTINF:-1 tvg-id="celestialmovies.my" tvg-name="CELESTIAL CLASSIC MOVIES" tvg-logo="http://dmtn.tv:8080/images/07b2a3849c597f26063de610ea681537.png" group-title="Movies",Celestial Classic Movie
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
 
 
 
